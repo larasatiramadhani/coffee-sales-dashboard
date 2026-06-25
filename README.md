@@ -3,7 +3,7 @@
 Interactive sales analytics dashboard built in Excel to monitor 
 revenue performance, customer behavior, and loyalty program effectiveness.
 
-![Dashboard Preview](Coffee Sales Dashboard Overview.png)
+![Dashboard Preview](coffee-sales-dashboard-overview.png)
 
 ## 🎯 Problem
 Coffee shop sales data was scattered with no centralized visualization,
